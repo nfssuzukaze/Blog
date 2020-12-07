@@ -9,6 +9,8 @@
 1. [Array 的部分 API](https://github.com/nfssuzukaze/Blog/issues/21)
 ### 深入理解 JavaScript
 1. [原型与原型链以及 new 的模拟实现](https://github.com/nfssuzukaze/Blog/issues/17)
+2. [call 与 apply 的模拟实现](https://github.com/nfssuzukaze/Blog/issues/23)
+3. [bind 的模拟实现](https://github.com/nfssuzukaze/Blog/issues/22)
 
 ## CSS
 ### 知识
