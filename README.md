@@ -11,6 +11,8 @@
 1. [原型与原型链以及 new 的模拟实现](https://github.com/nfssuzukaze/Blog/issues/17)
 2. [call 与 apply 的模拟实现](https://github.com/nfssuzukaze/Blog/issues/23)
 3. [bind 的模拟实现](https://github.com/nfssuzukaze/Blog/issues/22)
+4. [JavaScript 的数据类型转换](https://github.com/nfssuzukaze/Blog/issues/23)
+5. [作用域与作用域链](https://github.com/nfssuzukaze/Blog/issues/24)
 
 ## CSS
 ### 知识
