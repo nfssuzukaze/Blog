@@ -11,8 +11,8 @@
 1. [原型与原型链以及 new 的模拟实现](https://github.com/nfssuzukaze/Blog/issues/17)
 2. [call 与 apply 的模拟实现](https://github.com/nfssuzukaze/Blog/issues/23)
 3. [bind 的模拟实现](https://github.com/nfssuzukaze/Blog/issues/22)
-4. [JavaScript 的数据类型转换](https://github.com/nfssuzukaze/Blog/issues/23)
-5. [作用域与作用域链](https://github.com/nfssuzukaze/Blog/issues/24)
+4. [JavaScript 的数据类型转换](https://github.com/nfssuzukaze/Blog/issues/24)
+5. [作用域与作用域链](https://github.com/nfssuzukaze/Blog/issues/25)
 
 ## CSS
 ### 知识
@@ -27,6 +27,8 @@
 
 # 计算机网络
 1. 数据链路层
+    1. 纠错码与检错码
+        1. [纠错码-海明码](https://github.com/nfssuzukaze/Blog/issues/13)
     1. 生成树协议
         1. [生成树的选举过程(IEEE802.1D)](https://github.com/nfssuzukaze/Blog/issues/7)
         2. [生成树的收敛(IEEE802.1D)](https://github.com/nfssuzukaze/Blog/issues/8)
